@@ -1,8 +1,8 @@
 ### Setup
 
-‘npm install’
+npm install
 
 
 ### Test
 
-‘npn test’
+npm test
